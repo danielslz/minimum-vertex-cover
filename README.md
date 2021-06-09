@@ -1,0 +1,1 @@
+### This is a repo to group all code develop in PAA (Projeto e Análise de Algoritmos) of Master Degree in Computer Science at UFMA - Universidade Federal do Maranhão.
