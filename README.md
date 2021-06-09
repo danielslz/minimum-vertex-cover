@@ -1,1 +1,15 @@
-### This is a repo to group all code develop in PAA (Projeto e Análise de Algoritmos) of Master Degree in Computer Science at UFMA - Universidade Federal do Maranhão.
+# Minimum-vertex-cover
+
+* Install dependecies with pip
+```
+#!bash
+pip install -r requirements.txt
+```
+
+* Run tests
+```
+#!bash
+python mvc.py
+```
+
+* Check results in output folder
